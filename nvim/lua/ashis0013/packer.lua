@@ -120,4 +120,7 @@ return require('packer').startup(function(use)
     }
   })
 
+  use 'nvim-pack/nvim-spectre'
+  use 'olimorris/onedarkpro.nvim'
+
 end)
